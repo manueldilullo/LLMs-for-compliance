@@ -6,7 +6,7 @@ This repository contains a production-ready, modular Python package for LLM-base
 
 This work addresses the compliance challenges faced by SMEs under GDPR and the AI Act. Building on prior research on AI Act compliance, we expand to GDPR by constructing a deterministic Knowledge Graph of 99 Articles and 173 Recitals, generating over 5,000 synthetic question-answer pairs. We developed a domain-agnostic retrieval system and evaluated Agentic AI architectures (Routing, Collaborative Debate, Self-Refinement) for legal reasoning using lightweight LLMs on consumer hardware.
 
-**📥 Download thesis:** [Link to be added]
+**📥 Download thesis:** [here](https://github.com/manueldilullo/LLMs-for-compliance/releases/download/Latest/DiLullo.thesisLM18.pdf)
 
 ## ⚡ Quick Commands
 
